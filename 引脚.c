@@ -1,0 +1,21 @@
+// PWM
+PA0
+PA1
+//
+PA6
+PA7 
++ 5V
+// uart2
+PA2
+PA3
+GND
+// 6050
+PE1
+PE3
+VCC
+GND
+
+// º¸Ò»×é
+3.3V
+5V
+GND
